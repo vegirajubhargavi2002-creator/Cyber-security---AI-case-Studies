@@ -20,3 +20,8 @@ The EDA plots include a correlation heatmap that visualizes the relationships an
 # Week - 4
 
 In this experiment, we apply adversarial attacks by adding controlled noise to the input images using different epsilon values. We then evaluate the model's performance to determine whether it can still correctly classify the perturbed images or gets fooled by the added noise. This evaluation helps us assess the robustness of the machine learning model against adversarial attacks.
+
+# Week -5
+
+This image shows the generated samples from Epoch 11 of the model training. It displays a 4x4 grid of handwritten digit-like images produced by the generative model at that stage. The time taken to complete epoch 11 was 50.04 seconds.
+SID(2447411)
