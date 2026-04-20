@@ -16,3 +16,7 @@ In January 2023, T-Mobile disclosed a significant data breach in which attackers
 
 # Week - 3
 The EDA plots include a correlation heatmap that visualizes the relationships and potential multicollinearity among all numerical features and the target variable using a color-coded matrix, making it easy to spot strong positive or negative correlations. Additionally, a boxplot compares the distribution of the target variable across different categories of a chosen categorical feature, clearly showing how the target value varies between groups and highlighting differences in medians, spreads, and outliers. Together, these plots provide quick and useful insights into feature relationships and group-wise patterns in the data.
+
+# Week - 4
+
+In this experiment, we apply adversarial attacks by adding controlled noise to the input images using different epsilon values. We then evaluate the model's performance to determine whether it can still correctly classify the perturbed images or gets fooled by the added noise. This evaluation helps us assess the robustness of the machine learning model against adversarial attacks.
