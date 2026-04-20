@@ -1,6 +1,6 @@
 # Cyber-security---AI-case-Studies
 
-#Week -1
+# Week -1
 Data Splitting for Model Training and Evaluation
 The dataset was divided into three subsets using a two-step splitting process to ensure proper model training, hyperparameter tuning, and unbiased final evaluation.
 
@@ -8,7 +8,7 @@ Training Set (70%): Used for training the machine learning model.
 Validation Set (15%): Used for hyperparameter tuning and model selection.
 Testing Set (15%): Used for final performance evaluation on unseen data.
 
-#Week -2
+# Week -2
 topic : T-Mobile Data Breach (2023) – Attackers exploited API vulnerabilities to steal
 customer data.
 
